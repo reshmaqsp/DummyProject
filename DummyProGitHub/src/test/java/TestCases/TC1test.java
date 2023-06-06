@@ -9,6 +9,7 @@ public class TC1test {
 	public void m1()
 	{
 		Reporter.log("TC1 passed",true);
+		Reporter.log("TC1 updated by automation TE2",true);
 	}
 
 }
