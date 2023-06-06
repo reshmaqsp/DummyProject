@@ -8,7 +8,7 @@ public class TC3test {
 	public void tc3()
 	{
 		Reporter.log("Hello data",true);
-	    Reporter.log("ATE1 update");
+	    Reporter.log("ATE1 updateD");
 	}
 
 }
