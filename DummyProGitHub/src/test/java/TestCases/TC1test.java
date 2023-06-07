@@ -10,6 +10,8 @@ public class TC1test {
 	{
 		Reporter.log("TC1 passed",true);
 		Reporter.log("TC1 updated by automation TE2",true);
+	    Reporter.log("conflict data",true);
+	
 	}
 
 }
