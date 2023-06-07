@@ -10,6 +10,7 @@ public class TC2test {
 	{
 		Reporter.log("TC2 passed",true);
 		Reporter.log("TC2 data updated");
+		Reporter.log("Conflict data",true);
 	}
 
 }
